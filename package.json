@@ -1,0 +1,27 @@
+{
+  "name": "@mdbootstrap/bootstrap-dialog",
+  "version": "1.0.1",
+  "description": "Responsive Dialog built with Bootstrap 5. Examples of dialog box UI for confirm & reject dialog popups, alert dialogs & more.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-dialog.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "modal",
+    "dialog",
+    "responsive-design",
+    "bootstrap-dialog",
+    "bootstrap5"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-dialog/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/dialog/"
+}
